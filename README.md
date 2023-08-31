@@ -1,34 +1,12 @@
+![image](https://github.com/Shevaitverma/Shevaitverma/assets/54855567/082dae4e-d632-4e48-b98c-48984a9c48f9)
+
 <h1 align="center">Hi 👋, I'm Shevait Verma</h1>
-<h3 align="center">A passionate application developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shevaitverma&label=Profile%20views&color=0e75b6&style=flat" alt="shevaitverma" /> </p>
-
-- 🔭 I’m currently pursuing **Computer Science and Engineering in Infromation Security**
-
-- 🌱 I’m currently learning **Cloud based app development, blochains and web3.0 fundamentals**
-
-- 👯 I’m looking to collaborate on **Cloud based app devlopment**
-
-- 🤝 I’m looking for help with **cloud projects**
-
-- 💬 Ask me about **MERN, Cloud, Blockchain**
-
-- 📫 How to reach me **shevaitverma333@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/shevait-verma-5a0b081a1/](https://www.linkedin.com/in/shevait-verma-5a0b081a1/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shevait verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shevait verma" height="30" width="40" /></a>
-<a href="https://fb.com/shevait verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shevait verma" height="30" width="40" /></a>
-<a href="https://instagram.com/shevaitverma1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shevaitverma1" height="30" width="40" /></a>
+<!--Social media-->
+<p align="center">
+    <a href="https://www.facebook.com/shevait.verma" target="blank"><img alt="facebook" title="facebook" src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=blue" /></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://www.linkedin.com/in/shevait-verma/" target="blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=blue"></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://www.instagram.com/shevaitverma1/" target="blank"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=pink" /></a>&#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shevaitverma&show_icons=true&locale=en&layout=compact" alt="shevaitverma" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shevaitverma&show_icons=true&locale=en" alt="shevaitverma" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shevaitverma&" alt="shevaitverma" /></p>
