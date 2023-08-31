@@ -1,4 +1,4 @@
-![image](https://github.com/Shevaitverma/Shevaitverma/assets/54855567/082dae4e-d632-4e48-b98c-48984a9c48f9)
+![1a7158689e5ce37e5d78d97c332a003f](https://github.com/Shevaitverma/Shevaitverma/assets/54855567/5eae7e16-c064-4de3-bb3d-42725c78d633)
 
 <h1 align="center">Hi 👋, I'm Shevait Verma</h1>
 
