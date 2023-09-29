@@ -46,10 +46,13 @@
 [![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)](https://github.com/)
 
+## Streak stat
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shevaitverma&theme=dark)](https://git.io/streak-stats)
 <br>
 # 📊 GitHub Stats:
+
+
 <div align=center>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shevaitverma&show_icons=true&locale=en&layout=compact" alt="shevaitverma" height="192px"/>
-<!--     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shevaitverma&" alt="shevaitverma" height="192px"/><br/> -->
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=shevaitverma&show_icons=true&locale=en" alt="shevaitverma" height="192px"/>
 </div>
