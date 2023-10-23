@@ -47,7 +47,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)](https://github.com/)
 
 ## Streak stat
-[![GitHub Streak](https://streak-stats.demolab.com?user=Shevaitverma&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shevaitverma&currStreakNum=2FD3EB&sideLabels=F00&theme=dark)](https://git.io/streak-stats)
 <br>
 # 📊 GitHub Stats:
 
