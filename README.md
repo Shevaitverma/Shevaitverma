@@ -11,8 +11,8 @@
 </p>
 
 # 💫 About Me:
-- 🔭 Completed **Computer Science and Engineering in Infromation Security**
-- 🌱 I’m currently learning **Cloud native applications, back-end development and system design**
+- 🔭 **Computer Science Engineer**
+- 🌱 **Cloud Services, Full-stack development, Developemnt operations and Information security fundamentals**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=blue)](https://www.facebook.com/shevait.verma) [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=pink)](https://www.instagram.com/shevaitverma1/) [![LinkedIn](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/shevait-verma/)
