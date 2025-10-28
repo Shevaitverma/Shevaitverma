@@ -99,6 +99,6 @@
 
 # 📊 GitHub Stats:
 <div align=center>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shevaitverma&show_icons=true&locale=en&layout=compact" alt="shevaitverma" height="192px"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shevaitverma&show_icons=true&locale=en" alt="shevaitverma" height="192px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shevaitverma&show_icons=true&locale=en&layout=compact" alt="shevaitverma" height="192px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shevaitverma&show_icons=true&locale=en" alt="shevaitverma" height="192px"/>
 </div>
